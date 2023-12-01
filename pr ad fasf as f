@@ -1,0 +1,180 @@
+import 'package:intl/intl.dart';
+void main() {
+ 
+  var cestaBasica = ['arroz', 'feijão', 'morius', 'gift card', 'macbook'];
+  print('cestaBasica');
+  
+  
+  
+  
+  
+  
+  /*
+  //listas(Arrays)
+                             
+  var frutas = ['morius🍓', 'seraphine', 'acabaxeira🍍', 'uva🍇', 'umcai🐟', 'barao🌻', 'naero🛳', 'baore👩🏻‍🦽', 'ueaiaorpa🐻', 'aerira🕷'];
+  var num1 = [1,2,3,4,5,6,7,8,9,10];
+  frutas.add('the rise of gruh👽');
+  frutas.removeAt(1);
+    
+    
+  print(frutas);
+  
+  
+  
+  
+  
+  var idade =  18;
+  var idadem = 18;
+    if(idade >= idadem) {
+      print('Pode entrar');
+    }else {
+      print('Nao');
+    }
+  
+  
+  
+  
+  
+  
+  //operadores condicionais (if/else)
+  
+  int idade = 1990312;
+  if (idade >= 7) {
+    print('Mais de 7 anos');
+  }else {
+    print('Menos de 7 anos');
+  }
+  
+  
+  
+  
+  
+  //DataTime declaração e formação de datas
+  DateTime agora = DateTime.now();
+  DateFormat formato = DateFormat('dd-MM-yyyy');
+  String dataFormatada = formato.format(agora);
+  print ('Data: $dataFormatada');
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  dynamic qualquerCoisa = 'ME AJUDA YODA';
+  
+  qualquerCoisa = 'mata o khazix pelo menos';
+ 
+  print('Dynamic aceita todos os tipos=> $qualquerCoisa');
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  //Variaveis de tipo bool(usado para verdadeiro ou falso)
+  bool aprovado = true;
+    
+  bool nao = false;
+    
+  print(' O aluno foi aprovado? $aprovado');
+  
+  print('Ksante é champion de gente? $nao');
+  
+  
+  
+  
+  
+  
+  
+
+  //variaveis duplas
+  
+  var aluno = 'cleverson';
+  var n1 =  20;
+  var n2 = 60;
+  var n3 = 20;
+  var n4 = 10;
+  var media = (n1 + n2 + n3 + n4) / 4;
+  var faltas = 5;
+  
+      if (media>=60 && faltas<5){ 
+        print('$aluno passar, com medea $media 🥵');
+      }else if(media >= 40 && media <=59){
+        print('$aluno recuperaçãor $media 👽');
+      }else{        
+          print('$aluno reporvar $media 😎');
+      }
+}
+
+
+
+
+
+  //variaveis double
+  
+  double salario = 12.2;
+  
+  var aumento = 79;
+  
+  var novoSalario = (salario * aumento) / 100;
+  
+  var salarioReajustado = salario + novoSalario;
+  
+    
+  
+    
+  print('O salario do miseravel é $salario');
+  
+  print('O almento foi de $novoSalario');
+  
+  print('O salario reajusado ser $salarioReajustado');
+  
+  
+  
+  
+  
+  
+  //variaveis inteiros
+  
+  int num1 = 10;
+  int num2 = 50;
+  int num3 = 2;
+  var resultado = (num1 + num2) / num3;
+  
+  print('O número informado é $resultado');
+String nome = 'Samel';
+  
+String sobrenome = 'Top';
+  
+  print('O nome do arauto é $nome $sobrenome');
+  */
+  
+
+}
